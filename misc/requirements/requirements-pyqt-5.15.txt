@@ -1,3 +1,3 @@
-https://qutebrowser.org/tmp/wheels/5.15-rc/windows/PyQt5-5.14.2-5.14.2-cp35.cp36.cp37.cp38-none-win_amd64.whl
+https://qutebrowser.org/tmp/wheels/5.15-rc/linux/PyQt5-5.14.2-5.15.0-cp35.cp36.cp37.cp38-abi3-manylinux2014_x86_64.whl
 PyQt5-sip==12.7.2
-https://qutebrowser.org/tmp/wheels/5.15-rc/windows/PyQtWebEngine-5.14.0-5.14.2-cp35.cp36.cp37.cp38-none-win_amd64.whl
+https://qutebrowser.org/tmp/wheels/5.15-rc/linux/PyQtWebEngine-5.14.0-5.15.0-cp35.cp36.cp37.cp38-abi3-manylinux2014_x86_64.whl
