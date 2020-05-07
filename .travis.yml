@@ -21,6 +21,7 @@ matrix:
         apt:
           packages:
           - libxkbcommon-x11-0
+          - gdb
 
 cache:
   directories:
