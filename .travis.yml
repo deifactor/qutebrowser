@@ -10,10 +10,6 @@ matrix:
   #   - env: DOCKER=archlinux-webengine-unstable QUTE_BDD_WEBENGINE=true
   #     services: docker
   include:
-    ### Archlinux QtWebEngine with testing/KDE-Unstable
-    - env: DOCKER=archlinux-webengine-unstable QUTE_BDD_WEBENGINE=true
-      services: docker
-
     ### PyQt 5.15 (Python 3.8)
     - env: TESTENV=py38-pyqt515
       # http://code.qt.io/cgit/qt/qtbase.git/commit/?id=c3a963da1f9e7b1d37e63eedded61da4fbdaaf9a
