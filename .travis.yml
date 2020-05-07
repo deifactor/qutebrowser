@@ -20,6 +20,7 @@ matrix:
           #- libxcb-xkb1
           #- libxcb-xinput0
           - libxcb-icccm4
+          - libxcb-image0
 cache:
   directories:
     - $HOME/.cache/pip
