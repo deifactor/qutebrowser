@@ -21,8 +21,7 @@ matrix:
         apt:
           packages:
           - libxkbcommon-x11-0
-          - gdb
-
+          - libxcb1
 cache:
   directories:
     - $HOME/.cache/pip

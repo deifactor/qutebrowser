@@ -25,7 +25,7 @@ elif [[ $TESTENV == shellcheck ]]; then
            -w /outside \
            koalaman/shellcheck:stable "${scripts[@]}"
 else
-    args=('-s')
+    args=()
     # We only run unit tests on macOS because it's quite slow.
     [[ $TRAVIS_OS_NAME == osx ]] && args+=('--qute-bdd-webengine' '--no-xvfb' 'tests/unit')
 
