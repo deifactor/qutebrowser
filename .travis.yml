@@ -22,6 +22,7 @@ matrix:
           - libxcb-icccm4
           - libxcb-image0
           - libxcb-keysyms1
+          - libxcb-randr0
 cache:
   directories:
     - $HOME/.cache/pip
