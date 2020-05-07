@@ -1,0 +1,3 @@
+https://qutebrowser.org/tmp/wheels/5.15-rc/macos/PyQt5-5.14.2-5.15.0-cp35.cp36.cp37.cp38-abi3-macosx_10_6_intel.whl
+PyQt5-sip==12.7.2
+https://qutebrowser.org/tmp/wheels/5.15-rc/macos/PyQtWebEngine-5.14.0-5.15.0-cp35.cp36.cp37.cp38-abi3-macosx_10_6_intel.whl
